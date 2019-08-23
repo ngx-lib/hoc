@@ -1,0 +1,2 @@
+# hoc
+Higher order component
